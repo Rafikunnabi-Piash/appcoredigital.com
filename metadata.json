@@ -1,0 +1,9 @@
+
+{
+  "name": "AppCore Digital - Premium Software Agency",
+  "description": "A high-conversion software agency website for AppCore Digital, providing modern web, mobile, and UI/UX solutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
